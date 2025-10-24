@@ -1,11 +1,7 @@
 streamlit>=1.33
-pandas>=2.0
-numpy>=1.26,<1.27
-matplotlib>=3.7
-altair>=5.4
-plotly>=6.3
-seaborn>=0.13
-python-dateutil
-pytz
-requests
-rich
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+
